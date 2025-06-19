@@ -4,6 +4,12 @@ This project is a **full-stack web application** for managing and tracking stude
 
 ---
 
+# Demo
+
+https://github.com/user-attachments/assets/87f3bb51-9737-48cd-89ba-bec4d6f7c958
+
+---
+
 ## Table of Contents
 
 - [Features](#features)
