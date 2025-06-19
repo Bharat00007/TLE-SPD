@@ -204,8 +204,6 @@ SPW/
   Update credentials in [`utils/sendEmail.js`](backend/utils/sendEmail.js).
 - **Change Cron Defaults:**  
   Edit defaults in [`cron/studentSyncCron.js`](backend/cron/studentSyncCron.js) and [`cron/emailCron.js`](backend/cron/emailCron.js).
-- **UI Styling:**  
-  Modify TailwindCSS classes in frontend components.
 
 ---
 
